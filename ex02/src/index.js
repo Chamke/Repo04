@@ -1,4 +1,4 @@
-function main(numOne, numTwo){
+function main(){
 
     var myRes = 75;
 

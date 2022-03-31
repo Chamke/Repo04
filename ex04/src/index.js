@@ -1,4 +1,4 @@
-function main(numOne, numTwo){
+function main(){
 
     var myDecimal = 8.2;
     var myDecimalE = 2.54e-3;
@@ -11,5 +11,4 @@ function main(numOne, numTwo){
 }
 
 console.log(main());
-
 module.exports = main;

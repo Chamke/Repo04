@@ -1,4 +1,4 @@
-function main(numOne, numTwo){
+function main(){
 
     var myRes = 16;
 
@@ -8,5 +8,4 @@ function main(numOne, numTwo){
 }
 
 console.log(main());
-
 module.exports = main;
